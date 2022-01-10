@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saidkhaldoun
+- 👋 Hi, I’m @mozdev
 - 👀 I’m interested in Microsoft Azure
 - 🌱 I’m currently learning Visual Studio
 - 💞️ I’m looking to collaborate on Electronic Arts
